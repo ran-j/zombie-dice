@@ -1,6 +1,6 @@
-# nodegui-starter
+# zombie-dice
 
-**Clone and run for a quick way to see NodeGui in action.**
+**This is just a simple adaptation from zombie dice game all rights to the game creators.**
 
 ## To Use
 
